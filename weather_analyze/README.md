@@ -33,16 +33,16 @@ The dataset contains daily weather observations collected from various locations
 
 2. **Decision Tree Classifier**:
    - The Decision Tree classifier was used to model the data and predict whether it will rain the next day. The model was evaluated using accuracy, precision, recall, F1 score, and a confusion matrix to assess performance.
-   
-    ![alt text](dec_tree.png)
+
+    ![alt text](doc/dec_tree.png)
 3. **K-Nearest Neighbors (KNN)**:
    - The KNN classifier was applied to predict rainfall using a similar dataset. The data was scaled, and the KNN model was trained with 5 neighbors. Performance metrics included accuracy, precision, recall, F1 score, and confusion matrix visualization.
 
-    ![alt text](KNN.png)
+    ![alt text](doc/KNN.png)
 4. **Support Vector Machine (SVM)**:
    - SVM was used to classify the data. The features were scaled, and the model was evaluated using the same metrics as the Decision Tree and KNN models. Special attention was given to handling class imbalance and overfitting issues.
 
-   ![alt text](SVM.png)
+   ![alt text](doc/SVM.png)
 ## Contributors
 
 - **Shervin Ghaffari**: shervinghaffari79@gmail.com
