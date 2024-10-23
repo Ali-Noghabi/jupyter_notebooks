@@ -1,8 +1,7 @@
 # **N-Queens Genetic Solver**
 
-## **Project Description**
 
-The N-Queens Genetic Solver is an implementation of the N-Queens problem using a genetic algorithm. This project leverages evolutionary computation principles to find a solution where N queens are placed on an N×N chessboard such that no two queens threaten each other. The program evolves a population of potential solutions, progressively improving through selection, crossover, and mutation.
+implementation of the N-Queens problem using a genetic algorithm. 
 
 ## **What is the N-Queens Problem?**
 
